@@ -7,7 +7,7 @@ export default function Hero({ t }) {
   const { hero } = t;
 
   return (
-    <Section className="pt-12 pb-16 sm:pt-20 sm:pb-24">
+    <Section id="top" className="pt-12 pb-16 sm:pt-20 sm:pb-24">
       <div className="grid items-center gap-10 md:grid-cols-[1fr_auto] md:gap-16">
         <div className="order-2 md:order-1">
           <p className="text-sm font-medium text-accent">{hero.eyebrow}</p>

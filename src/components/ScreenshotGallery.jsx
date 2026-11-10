@@ -33,7 +33,7 @@ export default function ScreenshotGallery({ shots }) {
         </div>
       )}
 
-      <ul className="mt-5 flex flex-wrap justify-center gap-3">
+      <ul className="mt-5 flex flex-wrap justify-center gap-2 sm:gap-3">
         {shots.map((shot, index) => (
           <li key={shot.src}>
             <button
@@ -50,7 +50,7 @@ export default function ScreenshotGallery({ shots }) {
                 width={DESKTOP_SIZE.width}
                 height={DESKTOP_SIZE.height}
                 loading="lazy"
-                className="h-16 w-24 object-cover object-top sm:h-20 sm:w-28"
+                className="h-12 w-[4.5rem] object-cover object-top sm:h-20 sm:w-28"
               />
             </button>
           </li>
