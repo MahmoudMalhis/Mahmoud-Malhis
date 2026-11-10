@@ -6,7 +6,7 @@ export const STUDIO_NAME = { en: "Lumi Interiors", ar: "لومي للتصميم 
 export const links = {
   cv: "Mahmoud-Malhis-CV.pdf",
   email: "mahmoudmalhis2015@gmail.com",
-  whatsapp: "https://wa.me/970597629889",
+  whatsapp: "https://wa.me/970567330331",
   linkedin: "https://www.linkedin.com/in/mahmoud-malhis-a3348a164",
   github: "https://github.com/MahmoudMalhis",
   irtaq: "https://irtaq.net",

@@ -2,7 +2,7 @@
 
 A one-page personal portfolio built with React, Vite and Tailwind CSS v4. It supports English and Arabic (RTL) and follows the system light/dark theme.
 
-Live site: https://mahmoudmalhis.github.io/my-website/
+Live site: https://mahmoudmalhis.github.io/Mahmoud-Malhis/
 
 ## Getting started
 
@@ -19,4 +19,5 @@ All text (English and Arabic), links and the studio name live in `src/content.js
 
 ## CV
 
-The "Download CV" button links to `public/Mahmoud-Malhis-CV.pdf`. That file is not in the repository yet: add it to `public/` before deploying.
+`public/Mahmoud-Malhis-CV.pdf` is served by the "Download CV" button. Replace that file to update the CV.
+
