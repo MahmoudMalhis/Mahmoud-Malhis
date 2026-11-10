@@ -1,23 +1,23 @@
+# Mahmoud Malhis — Portfolio
 
-# Personal Website
+A one-page personal portfolio built with React, Vite and Tailwind CSS v4. It supports English and Arabic (RTL) and follows the system light/dark theme.
 
-This websit is a Portfolio for my projects
+Live site: https://mahmoudmalhis.github.io/Mahmoud-Malhis/
 
-## Demo
+## Getting started
 
-[Visit my Portfolio](https://mahmoudmalhis.github.io/my-website/)
+```bash
+npm install
+npm run dev     # local development server
+npm run build   # production build in dist/
+npm run lint    # ESLint
+```
 
-## Features
+## Content
 
-- Light/dark mode toggle
-- Fully responsive
+All text (English and Arabic), links and the studio name live in `src/content.js`. Components read from that file only.
 
+## CV
 
-## Feedback
-
-If you have any feedback, please reach out to us at mahoudmalhis2015@gmail.com
-
-
-## 🛠 Skills
-Javascript, HTML, CSS...
+`public/Mahmoud-Malhis-CV.pdf` is served by the "Download CV" button. Replace that file to update the CV.
 
