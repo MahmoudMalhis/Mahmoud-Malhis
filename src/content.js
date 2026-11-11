@@ -118,12 +118,12 @@ export const content = {
     nav: { work: "أعمالي", skills: "المهارات", contact: "تواصل" },
     hero: {
       eyebrow: "نابلس، فلسطين · متاح للعمل",
-      name: "محمود ملحس",
+      name: "محمود ملحيس",
       title: "مطوّر ويب يبني منصات حقيقية ويشغّلها",
       lead: "مؤسس منصة ارتق. أبني الواجهة بـ React، والخادم بـ ASP.NET Core أو Node.js، وأنشر بـ Docker، وأطلق أعمالي لمستخدمين حقيقيين.",
       cv: "تحميل السيرة الذاتية",
       contact: "تواصل معي",
-      avatarAlt: "صورة كرتونية لمحمود ملحس",
+      avatarAlt: "صورة كرتونية لمحمود ملحيس",
     },
     stats: [
       { value: "+2,500", label: "مستخدم في ارتق" },
@@ -207,6 +207,6 @@ export const content = {
       linkedin: "LinkedIn",
       github: "GitHub",
     },
-    footer: "© محمود ملحس",
+    footer: "© محمود ملحيس",
   },
 };
